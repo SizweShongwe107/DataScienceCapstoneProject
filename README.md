@@ -37,7 +37,7 @@ This project analyses SpaceX Falcon 9 launch data to identify factors associated
 | `8_SpaceX-Machine-Learning-Prediction-Part-5-v1.ipynb` | Trains and evaluates classification models. |
 | `spacex_launch_dash.csv` | Dashboard data. |
 | `spacex_launch_geo.csv` | Geographic launch-site data. |
-| `ds-capstone-template-coursera.pptx` | Project presentation template. |
+| `Presentation.pdf` | Project presentation template. |
 
 ## Machine-Learning Results
 
