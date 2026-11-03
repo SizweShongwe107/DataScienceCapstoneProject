@@ -1,6 +1,5 @@
-# DataScienceCapstoneProject
 
-# IBM SpaceX Data Science Capstone
+#SpaceX Data Science Capstone
 
 ## Overview
 
